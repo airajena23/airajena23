@@ -60,7 +60,7 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aira-jena-718437216/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rajat.sethi.7731/)
-<!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
+<!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://instagram.com/aira_jena23?utm_medium=copy_link)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
 <!-- <a href="https://dev.to/rajatsethi28"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a> -->
 <!-- Footer Not working -->
