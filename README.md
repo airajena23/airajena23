@@ -12,7 +12,7 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning Java and ReactJs
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/aira_jena23/) 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/aira-jena-718437216) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
