@@ -1,12 +1,14 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"> Konnichwa , I'm Aira Jena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Open Source Enthusiast from India ❤</h3>
+<h1 align="center">  Aira Jena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h3 align="center">Hello! Welcome to my Github profile! Thanks for Visiting!🙃</h3>
   
-<!-- A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
-A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+Hello I am Aira , an open source enthusiast. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.I value simple content structure, clean design patterns, and thoughtful interactions.I like to code things from scratch, and enjoy bringing ideas to life in the browser.I genuinely care about people, and love helping fellow designers work on their craft.Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+
+Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
+
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Chandigarh-3c9)
+![living](https://img.shields.io/badge/living-Jamshedpur-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning Java and ReactJs
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
