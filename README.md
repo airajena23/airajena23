@@ -7,10 +7,10 @@ Hello I am Aira , an open source enthusiast. I design and code beautifully simpl
 Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
 
 ![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)
 ![living](https://img.shields.io/badge/living-Jamshedpur-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning Java and ReactJs
+- 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/aira-jena-718437216) 
 - 😄 Pronouns: he/him/his
@@ -55,16 +55,16 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 <div align="center">
 ### Show some ❤️ by starring ⭐ some of the repositories!
  
- <br/>
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aira-jena-718437216/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rajat.sethi.7731/)
-<!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://instagram.com/aira_jena23?utm_medium=copy_link)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
-<!-- <a href="https://dev.to/rajatsethi28"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a> -->
-<!-- Footer Not working -->
-<!-- <img src="https://drive.google.com/file/d/1KuHSWDgFyVN3YA8Q3Hdvk9dPuQ4Uj22F/view?usp=sharing" alt=""> -->
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/aira-jena-718437216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AiraJen23"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/aira_jena23/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
 
 </div>
 
