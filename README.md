@@ -8,7 +8,7 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)
-![living](https://img.shields.io/badge/living-Jamshedpur-3c9)
+![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
